@@ -7,4 +7,4 @@ La Belle Bleue est **une émanation onirique** diffusant non pas un monde meille
 
 ![la mer à boire](/images/meraboire.jpg)
 
-<p align='right'>coucou</p> 
+<p align='right'>à suivre...</p> 
