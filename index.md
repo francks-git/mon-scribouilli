@@ -1,6 +1,6 @@
 ---
-title: Accueil
+title: "Accueil"
 ---
-# L'Échappée Belle
+# La Belle Bleue
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+La Belle Bleue est **une émanation onirique** pour un monde non pas meilleur mais juste. Et là, c'est la mer à boire, alors sortez les ptites cuillères !! 
