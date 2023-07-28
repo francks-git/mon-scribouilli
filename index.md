@@ -5,4 +5,4 @@ title: "Accueil"
 
 La Belle Bleue est **une émanation onirique** pour un monde non pas meilleur mais juste. Et là, c'est la mer à boire, alors sortez les ptites cuillères !!
 
-![Texte décrivant l'image](/images/meraboire.jpg) 
+![la mer à boire](/images/meraboire.jpg) 
